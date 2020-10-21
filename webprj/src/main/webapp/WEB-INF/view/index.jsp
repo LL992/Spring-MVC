@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>Hello JSP</h1>
-	<h2>Hi</h2>
+	<h1>Hi ${data}</h1>
+	
 </body>
 </html>
